@@ -1,0 +1,43 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Auto-generated VS/JetBrains files
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# WebGL local builds (optional to ignore)
+Builds/WebGLBuild/
+
+# Crash logs
+sysinfo.txt
+
+# Unity cache
+*.stacktrace
+*.mdb
+*.pdb
+
+# Rider-specific
+*.sln.iml
+
+# Uncomment if you’re using Collaborate
+# .collabignore
