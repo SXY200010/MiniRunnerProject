@@ -7,7 +7,14 @@ public class GameOverManager : MonoBehaviour
     public static GameOverManager instance;
 
     public GameObject gameOverCanvas;    
-    public Text finalScoreText;          
+    public Text finalScoreText;
+
+    public GameObject saveScorePanel;
+    public InputField nameInputField;
+
+    public AudioClip clickSound;
+    public AudioClip cancelSound;
+    private AudioSource audioSource;
 
     void Awake()
     {
@@ -15,6 +22,9 @@ public class GameOverManager : MonoBehaviour
             instance = this;
         else
             Destroy(gameObject);
+
+        audioSource = GetComponent<AudioSource>();
+        if (!audioSource) audioSource = gameObject.AddComponent<AudioSource>();
     }
 
     public void GameOver()
@@ -30,6 +40,8 @@ public class GameOverManager : MonoBehaviour
             int totalScore = ScoreManager.instance.coinScore + ScoreManager.instance.floorScore;
             finalScoreText.text =totalScore.ToString();
         }
+
+        saveScorePanel.SetActive(true);
     }
 
     public void RestartGame()
@@ -37,4 +49,20 @@ public class GameOverManager : MonoBehaviour
         Time.timeScale = 1f; 
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
+
+    public void OnConfirmSave()
+    {
+        if (clickSound) audioSource.PlayOneShot(clickSound);
+        string name = nameInputField.text;
+        int totalScore = ScoreManager.instance.coinScore + ScoreManager.instance.floorScore;
+        LeaderboardManager.instance.AddScore(name, totalScore);
+        saveScorePanel.SetActive(false);
+    }
+
+    public void OnCancelSave()
+    {
+        if (cancelSound) audioSource.PlayOneShot(cancelSound);
+        saveScorePanel.SetActive(false);
+    }
+
 }

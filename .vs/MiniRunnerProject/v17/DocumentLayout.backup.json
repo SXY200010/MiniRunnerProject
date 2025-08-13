@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MiniRunnerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|d:\\minirunnerproject\\assets\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|D:\\MiniRunnerProject\\assets\\scripts\\startgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startgamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|d:\\minirunnerproject\\assets\\scripts\\volumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\volumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|D:\\MiniRunnerProject\\assets\\scripts\\recordpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\recordpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|D:\\MiniRunnerProject\\assets\\scripts\\leaderboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\leaderboardmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|D:\\MiniRunnerProject\\assets\\scripts\\recordentryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\recordentryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|D:\\MiniRunnerProject\\assets\\scripts\\scoreentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoreentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|D:\\MiniRunnerProject\\assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3ADC05-ED4C-C9CB-5DF1-95A592B7F0B3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseManager.cs",
+              "DocumentMoniker": "D:\\MiniRunnerProject\\Assets\\Scripts\\PauseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseManager.cs",
+              "ToolTip": "D:\\MiniRunnerProject\\Assets\\Scripts\\PauseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:23:44.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VolumeController.cs",
+              "DocumentMoniker": "D:\\MiniRunnerProject\\Assets\\Scripts\\VolumeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VolumeController.cs",
+              "ToolTip": "D:\\MiniRunnerProject\\Assets\\Scripts\\VolumeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VolumeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T04:23:07.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecordPanel.cs",
+              "DocumentMoniker": "D:\\MiniRunnerProject\\Assets\\Scripts\\RecordPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RecordPanel.cs",
+              "ToolTip": "D:\\MiniRunnerProject\\Assets\\Scripts\\RecordPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RecordPanel.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:04:00.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "D:\\MiniRunnerProject\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverManager.cs",
+              "ToolTip": "D:\\MiniRunnerProject\\Assets\\Scripts\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:19:01.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaderboardManager.cs",
+              "DocumentMoniker": "D:\\MiniRunnerProject\\Assets\\Scripts\\LeaderboardManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LeaderboardManager.cs",
+              "ToolTip": "D:\\MiniRunnerProject\\Assets\\Scripts\\LeaderboardManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LeaderboardManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:18:10.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScoreEntry.cs",
+              "DocumentMoniker": "D:\\MiniRunnerProject\\Assets\\Scripts\\ScoreEntry.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreEntry.cs",
+              "ToolTip": "D:\\MiniRunnerProject\\Assets\\Scripts\\ScoreEntry.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T01:14:24.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartGameManager.cs",
+              "DocumentMoniker": "D:\\MiniRunnerProject\\Assets\\Scripts\\StartGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartGameManager.cs",
+              "ToolTip": "D:\\MiniRunnerProject\\Assets\\Scripts\\StartGameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartGameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T00:12:04.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecordEntryUI.cs",
+              "DocumentMoniker": "D:\\MiniRunnerProject\\Assets\\Scripts\\RecordEntryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RecordEntryUI.cs",
+              "ToolTip": "D:\\MiniRunnerProject\\Assets\\Scripts\\RecordEntryUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RecordEntryUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T02:05:55.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

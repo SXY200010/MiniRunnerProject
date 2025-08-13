@@ -27,10 +27,13 @@ public class LaneMovementInput : MonoBehaviour
     private float lastSideHitTime = -999f;
     public float sideHitCooldown = 0.3f;
 
+    public AudioClip hitSound;
+    private AudioSource audioSource;
     void Start()
     {
         controller = GetComponent<CharacterController>();
         anim = GetComponent<Animator>();
+        audioSource = gameObject.AddComponent<AudioSource>();
     }
 
     void Update()
@@ -117,6 +120,8 @@ public class LaneMovementInput : MonoBehaviour
     {
         if (hit.collider.CompareTag("Obstacle"))
         {
+            if (hitSound) audioSource.PlayOneShot(hitSound);
+
             Vector3 hitDir = hit.point - transform.position;
             hitDir.y = 0;
             hitDir.Normalize();
